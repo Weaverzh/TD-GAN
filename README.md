@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-    <img src="./method.png"/ width="900">
+    <img src="./model.png"/ width="900">
 </p>
 # TD-GAN
 The code will be released soon.
